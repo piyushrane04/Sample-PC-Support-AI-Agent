@@ -1,0 +1,5 @@
+{
+  "name": "PC Support AI Agent",
+  "description": "An AI agent that diagnoses PC issues using telemetry, user history, and a knowledge base.",
+  "requestFramePermissions": []
+}
